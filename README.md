@@ -37,7 +37,7 @@ You can access this application via port `8080` and context path `/api/v1/custom
 `GET http://localhost:9999/v1/customers/{customerId}`
 
 - insert a new task
-`POST http://localhost:9999/api/v1/customer` This is an example data
+`POST http://localhost:9999/api/v1/customers` This is an example data
 ```
 {
   "firstname": "Barack",
